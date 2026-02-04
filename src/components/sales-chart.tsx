@@ -168,7 +168,7 @@ export function SalesChart() {
                 },
               }}
               tooltip={({ point }) => (
-                <div className="rounded-md bg-card border border-border px-3 py-2 text-sm text-card-foreground shadow-lg">
+                <div className=" flex rounded-md bg-card border border-border px-3 py-2 text-sm text-card-foreground shadow-lg">
                   <strong>{point.data.xFormatted}</strong>:{" "}
                   {config.format(point.data.y as number)}
                 </div>

@@ -91,7 +91,7 @@ src/
 
 ## Live Demo
 
-[Deployed on Vercel] - *TODO: Add link after deployment*
+[Deployed on Vercel] - https://even-artist.vercel.app/
 
 ---
 
